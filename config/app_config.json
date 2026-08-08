@@ -579,16 +579,6 @@
       "wallpaper_type": "static",
       "rewarded": true,
       "prompt": "Portrait 1080x1920, Y2K aesthetic, floating dimensional portal, swirling liquid chrome and neon pastel rings, deep space core, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
-    },
-    {
-      "wallpaper_id": 51,
-      "category_name": "Cyber Neon",
-      "wallpaper_name": "Neon Tamagotchi",
-      "wallpaper_thumbnail": "neon-tamagotchi.webp",
-      "wallpaper_url": "neon-tamagotchi.webp",
-      "wallpaper_type": "static",
-      "rewarded": true,
-      "prompt": "vertical 9:20 aspect ratio, Y2K aesthetic, floating translucent neon tamagotchi, glowing pink and green plastic, digital pixel screen active, dark cyber background, masterpiece, best quality, 8k resolution, ultra-detailed, sharp focus, volumetric lighting."
     }
   ],
   "more_apps": [
